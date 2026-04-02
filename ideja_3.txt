@@ -1,17 +1,23 @@
 Kāds varētu būt projekta nosaukums?
-
+Smart Gym Planner
 
 Ko projekts dara vienā teikumā?
-
+Programma iesaka treniņu vai aktivitāti, balstoties uz dienu un lietotāja garastāvokli.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Tas ir personīgās produktivitātes un veselības rīks, kas palīdz lietotājam izvēlēties piemērotu treniņu, lai saglabātu motivāciju un enerģiju.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni vai jaunieši, kuri vēlas trenēties, bet nezina, kā plānot treniņu atbilstoši dienai un garastāvoklim.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Dienu (piemēram, Pirmdiena, Otrdiena)
+Garastāvokli (piemēram, laimīgs, noguris, motivēts)
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Lietotājs izvēlas dienu
+Lietotājs izvēlas garastāvokli
+Programma piesaka treniņu atbilstoši dienai un garastāvoklim
+Parāda īsu instrukciju vai ieteikumu (piemēram, vingrinājumu skaits vai veids)
+Iespēja atkārtoti ievadīt jaunu dienu un garastāvokli
 
