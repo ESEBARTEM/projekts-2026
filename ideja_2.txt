@@ -1,17 +1,27 @@
-Kāds varētu būt projekta nosaukums?
+Kāds varētu būt projekta nosaukums? Mini Games Collection
 
 
 Ko projekts dara vienā teikumā?
+Programma piedāvā lietotājam izvēlēties un spēlēt trīs jautras mini spēles: Akmens-Šķēres-Papīrs, Tic Tac Toe un Uzmini skaitli.
 
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
+Tas ir izklaides projekts, kas ļauj lietotājiem pavadīt brīvo laiku, trenēt loģisko domāšanu un reakciju.
 
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un jaunieši, kuri vēlas spēlēt vienkāršas spēles datorā.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
+Lietotājs izmantos konsoli, ievadot izvēles un atbildes ar tastatūru.
 
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Izvēlne ar trim spēlēm
+Iespēja izvēlēties spēli (1, 2 vai 3)
+Akmens-Šķēres-Papīrs: spēlētājs pret datoru, dators izvēlas nejauši
+Tic Tac Toe: 2 spēlētāji vai vienkārša versija pret datoru
+Uzmini skaitli: dators izvēlas skaitli, lietotājs min
+Parāda rezultātus katrā spēlē (uzvara / neizšķirts / zaudējums)
+Iespēja spēlēt vēlreiz jebkuru spēli
 
