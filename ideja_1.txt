@@ -1,17 +1,24 @@
-Kāds varētu būt projekta nosaukums?
+Kāds varētu būt projekta nosaukums? Homework Checker
 
+Ko projekts dara vienā teikumā? Programma uzdod jautājumus un automātiski pārbauda lietotāja atbildes, parādot rezultātu.
 
-Ko projekts dara vienā teikumā?
-
-
-Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?) 
+Tas ir mācību un produktivitātes rīks, kas palīdz skolēniem ātri pārbaudīt savas zināšanas un gatavoties pārbaudes darbiem.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni, kuri vēlas trenēties un pārbaudīt savas zināšanas dažādos mācību priekšmetos.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs izmantos programmu konsolē, ievadot atbildes ar tastatūru.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Uzdod vairākus jautājumus (piemēram, matemātikā)
+Pieņem lietotāja atbildes
+Pārbauda atbilžu pareizību
+Parāda pareizo atbildi, ja lietotājs kļūdās
+Saskaita punktus (score)
+Parāda gala rezultātu (piemēram: “Labi”, “Ļoti labi”, “Pamēģini vēlreiz”)
+Parāda, cik atbildes bija pareizas un nepareizas
+Dod iespēju sākt testu vēlreiz
+(Papildus) Nejauši izvēlas jautājumus
 
