@@ -22,3 +22,12 @@ Parāda, cik atbildes bija pareizas un nepareizas
 Dod iespēju sākt testu vēlreiz
 (Papildus) Nejauši izvēlas jautājumus
 
+Programma uzdod lietotājam vairākus jautājumus no izvēlētas tēmas.
+Programma pieņem lietotāja ievadītās atbildes caur konsoli.
+Programma pārbauda, vai lietotāja atbildes ir pareizas.
+Programma aprēķina un saglabā lietotāja punktus .
+Programma parāda gala rezultātu
+
+Programmai jābūt viegli lietojamai .
+Programmai jādarbojas ātri un bez kļūdām .
+Programmai jābūt uzticamai un stabilai .
