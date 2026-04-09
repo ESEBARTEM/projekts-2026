@@ -21,3 +21,13 @@ Programma piesaka treniņu atbilstoši dienai un garastāvoklim
 Parāda īsu instrukciju vai ieteikumu (piemēram, vingrinājumu skaits vai veids)
 Iespēja atkārtoti ievadīt jaunu dienu un garastāvokli
 
+Programma ļauj lietotājam ievadīt nedēļas dienu.
+Programma ļauj lietotājam izvēlēties vai ievadīt savu garastāvokli.
+Programma, balstoties uz ievadītajiem datiem (diena + garastāvoklis), izvēlas piemērotu treniņu.
+Programma parāda lietotājam treniņa ieteikumu ar īsu aprakstu (piemēram, vingrinājumi vai aktivitātes).
+Programma dod iespēju lietotājam atkārtoti ievadīt jaunus datus un saņemt citu ieteikumu.
+
+Programmai jābūt vienkāršai un intuitīvai lietošanā (skaidras izvēles un ievade).
+Programmai jādarbojas ātri un bez kļūdām, sniedzot rezultātu uzreiz pēc ievades.
+Programmai jābūt paplašināmai .
+
