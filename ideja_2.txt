@@ -25,3 +25,12 @@ Uzmini skaitli: dators izvēlas skaitli, lietotājs min
 Parāda rezultātus katrā spēlē (uzvara / neizšķirts / zaudējums)
 Iespēja spēlēt vēlreiz jebkuru spēli
 
+Programma attēlo izvēlni ar pieejamajām mini spēlēm.
+Programma ļauj lietotājam izvēlēties vienu no spēlēm (Akmens–Šķēres–Papīrs, Tic Tac Toe, Uzmini skaitli).
+Programma realizē katras spēles loģiku (noteikumi, gājieni, uzvaras nosacījumi).
+Programma pieņem lietotāja ievadi un apstrādā to (piemēram, izvēles un minējumus).
+Programma parāda spēles rezultātu un piedāvā iespēju spēlēt vēlreiz vai izvēlēties citu spēli.
+
+Programmai jābūt viegli lietojamai ar skaidru un saprotamu konsoles interfeisu.
+Programmai jādarbojas ātri un bez kļūdām .
+Programmai jābūt stabilai un uzticamai .
