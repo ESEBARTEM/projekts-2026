@@ -31,3 +31,13 @@ Programmai jābūt vienkāršai un intuitīvai lietošanā (skaidras izvēles un
 Programmai jādarbojas ātri un bez kļūdām, sniedzot rezultātu uzreiz pēc ievades.
 Programmai jābūt paplašināmai .
 
+
+Cik ļoti mani aizrauj šī tēma? 3 
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli) 3 
+
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? 2
+
+Vai šī programma atbilst visiem vērtēšanas kritērijiem? 1
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? 1
