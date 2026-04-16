@@ -47,3 +47,125 @@ Vai šī programma atbilst visiem vērtēšanas kritērijiem? 5
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? 5
 
 22/25
+
+
+Mini Games Collection – Projekta analīze
+1. Esošā risinājuma analīze
+Risinājums: Stopwatch
+
+Saite: https://www.stopwatch.lol/
+
+Apraksts:
+Stopwatch ir vienkārša tīmekļa vietne, kas piedāvā dažādus rīkus (taimeri, hronometru) un mini spēles, kuras var ātri palaist pārlūkprogrammā bez instalēšanas.
+
+2. Mans risinājums
+Projekta nosaukums:
+
+Mini Games Collection
+
+Apraksts:
+Programma piedāvā lietotājam izvēlēties un spēlēt trīs jautras mini spēles:
+
+Akmens–Šķēres–Papīrs
+Tic Tac Toe
+Uzmini skaitli
+
+3. Salīdzinājums
+Kritērijs	            Stopwatch	                        Mini Games Collection
+Platforma	            Web	                              Konsole
+Dizains	              Grafisks                          Vienkāršs	Teksta interfeiss
+Spēļu skaits	        Vairākas                          3
+Lietošanas veids	    Klikšķi ar peli                   Tastatūras ievade
+Pieejamība	          Jebkurā                           Pārlūkā	Lokāli datorā
+
+4.Priekšrocības un trūkumi
+Stopwatch
+
+Plusi:
+Ļoti viegli pieejams (nav jāinstalē)
+Vienkāršs un saprotams dizains
+Ātra lietošana
+Strādā uz jebkuras ierīces ar internetu
+
+Mīnusi:
+Nepieciešams internets
+Ierobežota pielāgošana
+Mazāka kontrole pār funkcionalitāti
+
+Mini Games Collection
+
+Plusi:
+Darbojas bez interneta
+Vienkārša loģika un struktūra
+Labi piemērots mācībām (programmēšana)
+Var viegli paplašināt ar jaunām spēlēm
+
+Mīnusi:
+Nav grafiska interfeisa
+Mazāk vizuāli pievilcīgs
+Ierobežota lietotāja pieredze 
+
+5. Lietojamības analīze
+
+Stopwatch:
+
+Ļoti intuitīvs
+Nav jādomā par lietošanu
+Piemērots ātrai izklaidei
+
+Mini Games Collection:
+
+Nepieciešams lasīt instrukcijas
+Lēnāka mijiedarbība (ievade ar tastatūru)
+Labāk piemērots vienkāršām spēlēm un mācību nolūkiem
+
+6. Projekta mērķis
+
+Šis projekts ir izklaides rīks, kas palīdz:
+
+pavadīt brīvo laiku
+trenēt loģisko domāšanu
+attīstīt reakciju
+
+6. Projekta mērķis
+
+Šis projekts ir izklaides rīks, kas palīdz:
+
+pavadīt brīvo laiku
+trenēt loģisko domāšanu
+attīstīt reakciju
+7. Mērķauditorija
+
+Skolēni un jaunieši, kuri vēlas spēlēt vienkāršas spēles datorā.
+
+8. Funkcionalitāte
+
+Programma:
+
+attēlo izvēlni ar spēlēm
+ļauj izvēlēties spēli (1, 2 vai 3)
+realizē katras spēles loģiku
+apstrādā lietotāja ievadi
+parāda rezultātu
+piedāvā spēlēt vēlreiz
+
+9. Tehniskās prasības
+Vienkāršs un saprotams interfeiss
+Ātra darbība
+Stabilitāte un uzticamība
+
+10. Secinājumi
+
+Mini Games Collection ir vienkāršs, bet efektīvs projekts, kas ir līdzīgs Stopwatch mini spēļu sadaļai, taču darbojas konsolē.
+
+Galvenā atšķirība:
+
+Stopwatch fokusējas uz lietošanas ērtumu un dizainu
+Mini Games Collection fokusējas uz programmēšanas loģiku un vienkāršību
+
+Projektu nākotnē var uzlabot, pievienojot:
+
+grafisko interfeisu
+vairāk spēles
+punktu sistēmu
+multiplayer iespējas
