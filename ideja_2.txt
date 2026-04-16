@@ -45,3 +45,5 @@ Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša i
 Vai šī programma atbilst visiem vērtēšanas kritērijiem? 5
 
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? 5
+
+22/25
