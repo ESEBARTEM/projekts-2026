@@ -37,8 +37,10 @@ Cik ļoti mani aizrauj šī tēma? 5
 
 Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli) 2
 
-Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? 1
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? 5
 
-Vai šī programma atbilst visiem vērtēšanas kritērijiem? 1
+Vai šī programma atbilst visiem vērtēšanas kritērijiem? 5
 
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? 5
+
+22/25
