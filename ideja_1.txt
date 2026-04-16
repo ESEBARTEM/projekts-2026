@@ -31,3 +31,14 @@ Programma parāda gala rezultātu
 Programmai jābūt viegli lietojamai .
 Programmai jādarbojas ātri un bez kļūdām .
 Programmai jābūt uzticamai un stabilai .
+
+
+Cik ļoti mani aizrauj šī tēma? 5
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli) 2
+
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā? 1
+
+Vai šī programma atbilst visiem vērtēšanas kritērijiem? 1
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam? 5
