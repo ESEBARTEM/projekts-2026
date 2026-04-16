@@ -127,13 +127,6 @@ pavadīt brīvo laiku
 trenēt loģisko domāšanu
 attīstīt reakciju
 
-6. Projekta mērķis
-
-Šis projekts ir izklaides rīks, kas palīdz:
-
-pavadīt brīvo laiku
-trenēt loģisko domāšanu
-attīstīt reakciju
 7. Mērķauditorija
 
 Skolēni un jaunieši, kuri vēlas spēlēt vienkāršas spēles datorā.
@@ -169,3 +162,122 @@ grafisko interfeisu
 vairāk spēles
 punktu sistēmu
 multiplayer iespējas
+
+
+
+Mini Games Collection – Projekta analīze
+1. Esošā risinājuma analīze
+
+Risinājums: Poki
+
+Saite: https://poki.com/
+
+Apraksts:
+Poki ir populāra tiešsaistes spēļu platforma, kas piedāvā tūkstošiem spēļu, kuras var spēlēt tieši pārlūkprogrammā bez lejupielādes vai instalēšanas. Platforma ir pieejama dažādās ierīcēs un valodās, un to izmanto miljoniem spēlētāju visā pasaulē.
+
+2. Mans risinājums
+
+Projekta nosaukums:
+Mini Games Collection
+
+Apraksts:
+Programma piedāvā lietotājam izvēlēties un spēlēt trīs mini spēles:
+
+Akmens–Šķēres–Papīrs
+Tic Tac Toe
+Uzmini skaitli
+
+3. Salīdzinājums
+Kritērijs	              Poki	                                Mini Games Collection
+Platforma	              Web	                                  Konsole
+Dizains	                Grafisks, krāsains	Vienkāršs         teksta interfeiss
+Spēļu skaits	          Tūkstošiem	                          3
+Lietošanas veids	      Pele / skārienekrāns	                Tastatūra
+Pieejamība	            Jebkurā ierīcē ar internetu	Lokāli    Datorā
+4. Priekšrocības un trūkumi
+Poki
+
+Plusi:
+
+Nav nepieciešama instalēšana
+Ļoti plašs spēļu klāsts
+Darbojas uz telefoniem, planšetēm un datoriem
+Ātra piekļuve un vienkārša lietošana
+
+Mīnusi:
+
+Nepieciešams internets
+Satur reklāmas
+Dažām spēlēm var būt vardarbīgs saturs
+Ierobežota pielāgošana lietotājam
+Mini Games Collection
+
+Plusi:
+
+Darbojas bez interneta
+Vienkārša struktūra un loģika
+Ideāli piemērots programmēšanas apguvei
+Viegli papildināt ar jaunām spēlēm
+
+Mīnusi:
+
+Nav grafiskā interfeisa
+Mazāk spēļu
+Vienkāršāka lietotāja pieredze
+
+5. Lietojamības analīze
+Poki:
+Ļoti intuitīvs
+Spēles var sākt uzreiz
+Piemērots ātrai izklaidei
+Nav nepieciešamas instrukcijas
+
+Mini Games Collection:
+Nepieciešams lasīt instrukcijas
+Lēnāka ievade (tastatūra)
+Labāk piemērots mācību nolūkiem
+
+6. Projekta mērķis
+
+Šis projekts ir izklaides rīks, kas palīdz:
+
+pavadīt brīvo laiku
+trenēt loģisko domāšanu
+attīstīt reakciju
+
+7. Mērķauditorija
+Skolēni
+Jaunieši
+Iesācēji programmēšanā
+
+8. Funkcionalitāte
+
+Programma:
+
+attēlo izvēlni
+ļauj izvēlēties spēli
+realizē spēļu loģiku
+apstrādā lietotāja ievadi
+parāda rezultātu
+piedāvā spēlēt vēlreiz
+
+9. Tehniskās prasības
+Vienkāršs interfeiss
+Ātra darbība
+Stabilitāte
+
+10. Secinājumi
+
+Mini Games Collection ir vienkāršs projekts, kas konceptuāli ir līdzīgs Poki, taču būtiski atšķiras pēc sarežģītības un lietošanas veida.
+
+Galvenā atšķirība:
+
+Poki fokusējas uz lietotāja pieredzi, dizainu un lielu spēļu daudzumu
+Mini Games Collection fokusējas uz programmēšanas loģiku un vienkāršību
+
+Nākotnes uzlabojumi:
+
+grafiskais interfeiss
+vairāk spēļu
+punktu sistēma
+multiplayer režīms
